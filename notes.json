@@ -1,1 +1,5 @@
-[{"title":"shopping-list","body":"sweater, trouser"}]
+[
+  { "title": "wants", "body": "phone" },
+  { "title": "shopping", "body": "sweater, trouser" },
+  { "title": "shopping-list", "body": "sweater, trouser" }
+]
